@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GitHub-Repository.iml" filepath="$PROJECT_DIR$/.idea/GitHub-Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listasEnlazadas/listasEnlazadas.iml" filepath="$PROJECT_DIR$/listasEnlazadas/listasEnlazadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listasEnlazadasED/listasEnlazadasED.iml" filepath="$PROJECT_DIR$/listasEnlazadasED/listasEnlazadasED.iml" />
       <module fileurl="file://$PROJECT_DIR$/projectClass/projectClass.iml" filepath="$PROJECT_DIR$/projectClass/projectClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/projectHomeWork/projectHomeWork.iml" filepath="$PROJECT_DIR$/projectHomeWork/projectHomeWork.iml" />
     </modules>
